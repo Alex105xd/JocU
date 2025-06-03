@@ -1,3 +1,5 @@
+el juego es un plataformas 2d en donde protagonizas a una goma 
+
 primero hablemos sobre como descargar el juego
 1. dale al archivo que tenga el nombre dle juego en este caso el ejecutable se llama "Eraser Game"
 2. una vez descargado solo lo ejecutas y ya
